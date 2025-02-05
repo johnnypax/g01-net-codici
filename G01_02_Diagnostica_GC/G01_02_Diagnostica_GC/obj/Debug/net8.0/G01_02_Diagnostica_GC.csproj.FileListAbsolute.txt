@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\bin\Debug\net8.0\G01_02_Diagnostica_GC.exe
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\bin\Debug\net8.0\G01_02_Diagnostica_GC.deps.json
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\bin\Debug\net8.0\G01_02_Diagnostica_GC.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\bin\Debug\net8.0\G01_02_Diagnostica_GC.dll
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\bin\Debug\net8.0\G01_02_Diagnostica_GC.pdb
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.dll
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\refint\G01_02_Diagnostica_GC.dll
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.pdb
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\G01_02_Diagnostica_GC.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G01_02_Diagnostica_GC\G01_02_Diagnostica_GC\obj\Debug\net8.0\ref\G01_02_Diagnostica_GC.dll
