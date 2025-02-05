@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\migrations\\20250205142739_aggiuntoisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\migrations\\20250205142739_aggiuntoisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|c:\\users\\academy\\source\\repos\\g01_05_di_recap\\g01_05_di_recap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE6BE13D-5BB4-4878-B118-1497F680BD05}|G01_05_DI_Recap\\G01_05_DI_Recap.csproj|solutionrelative:g01_05_di_recap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Models\\Libro.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\Models\\Libro.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:06:35.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Program.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Program.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:18:19.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250205142739_AggiuntoIsbn.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Migrations\\20250205142739_AggiuntoIsbn.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\Migrations\\20250205142739_AggiuntoIsbn.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Migrations\\20250205142739_AggiuntoIsbn.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\Migrations\\20250205142739_AggiuntoIsbn.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:27:39.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\App.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\App.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\App.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\App.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:55:20.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Context\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\Context\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Context\\LibreriaContext.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\Context\\LibreriaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:28:40.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250205143908_Vuota.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs",
+              "RelativeToolTip": "G01_05_DI_Recap\\Migrations\\20250205143908_Vuota.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:39:08.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\appsettings.json",
+              "RelativeDocumentMoniker": "G01_05_DI_Recap\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_05_DI_Recap\\G01_05_DI_Recap\\appsettings.json",
+              "RelativeToolTip": "G01_05_DI_Recap\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T13:38:39.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
