@@ -1,0 +1,6 @@
+@G01_06_EF_DF_Negozio_HostAddress = http://localhost:5276
+
+GET {{G01_06_EF_DF_Negozio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:53:18.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Libro.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:47:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autore.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:47:36.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

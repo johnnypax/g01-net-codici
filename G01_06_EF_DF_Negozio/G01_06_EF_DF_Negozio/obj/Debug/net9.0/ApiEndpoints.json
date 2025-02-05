@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "G01_06_EF_DF_Negozio.Controllers.ProdottoController",
+    "Method": "FindAll",
+    "RelativePath": "api/Prodotto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[G01_06_EF_DF_Negozio.Models.Prodotto, G01_06_EF_DF_Negozio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "G01_06_EF_DF_Negozio.Controllers.ProdottoController",
+    "Method": "FindAllAndRicarica",
+    "RelativePath": "api/Prodotto/ricarico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[G01_06_EF_DF_Negozio.Models.Prodotto, G01_06_EF_DF_Negozio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

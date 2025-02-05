@@ -1,0 +1,6 @@
+@G01_07_EF_CF_OTM_HostAddress = http://localhost:5157
+
+GET {{G01_07_EF_CF_OTM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,10 @@
+﻿namespace G01_07_EF_CF_OTM.Models
+{
+    public class Autore
+    {
+        public int AutoreID { get; set; }
+        public string Nome { get; set; } = null!;
+
+        public ICollection<Libro> Libri { get; set; } = new List<Libro>();
+    }
+}
