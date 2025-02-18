@@ -17,6 +17,10 @@ namespace G01_07_EF_CF_OTM.Context
                 .WithOne(l => l.AutoreNav)
                 .HasForeignKey(l => l.AutoreRIF);
 
+            modelBuilder.Entity<Autore>()
+                .HasIndex(a => a.Codice)
+                .IsUnique();
+
             base.OnModelCreating(modelBuilder);
         }
     }

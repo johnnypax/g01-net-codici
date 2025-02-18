@@ -4,6 +4,7 @@
     {
         public int AutoreID { get; set; }
         public string Nome { get; set; } = null!;
+        public string Codice { get; set; } = null!;
 
         public ICollection<Libro> Libri { get; set; } = new List<Libro>();
     }

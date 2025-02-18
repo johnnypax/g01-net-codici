@@ -1,3 +1,8 @@
+using G01_07_EF_CF_OTM.Context;
+using G01_07_EF_CF_OTM.Repos;
+using G01_07_EF_CF_OTM.Services;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.AddDbContext<LibreriaContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("TestConnection")
+    ));
+
+builder.Services.AddScoped<AutoreService>();
+builder.Services.AddScoped<LibroService>();
+builder.Services.AddScoped<AutoreRepository>();
+builder.Services.AddScoped<LibroRepository>();
 
 var app = builder.Build();
 

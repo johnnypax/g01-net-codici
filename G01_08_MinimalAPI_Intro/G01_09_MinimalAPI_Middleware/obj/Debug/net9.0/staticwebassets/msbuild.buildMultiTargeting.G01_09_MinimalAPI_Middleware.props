@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_09_MinimalAPI_Middleware.props" />
+</Project>

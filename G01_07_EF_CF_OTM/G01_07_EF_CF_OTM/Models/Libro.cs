@@ -5,7 +5,6 @@
         public int LibroId { get; set; }
         public string Titolo { get; set; } = null!;
         public int AutoreRIF { get; set; }
-
         public Autore AutoreNav { get; set; } = null!;
     }
 }

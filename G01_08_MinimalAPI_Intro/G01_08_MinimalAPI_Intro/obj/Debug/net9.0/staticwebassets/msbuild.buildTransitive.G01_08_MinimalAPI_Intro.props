@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\G01_08_MinimalAPI_Intro.props" />
+</Project>

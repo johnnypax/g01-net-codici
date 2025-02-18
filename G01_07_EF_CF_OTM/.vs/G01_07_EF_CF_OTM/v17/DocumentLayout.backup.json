@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\services\\autoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\services\\autoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\autoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\autoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\repos\\autorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\repos\\autorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\repos\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\repos\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\controllers\\autorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\controllers\\autorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\context\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\migrations\\20250212134553_iniziale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\migrations\\20250212134553_iniziale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|c:\\users\\academy\\source\\repos\\g01_07_ef_cf_otm\\g01_07_ef_cf_otm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EC2435D-EE66-41BF-B8DE-DC0CF1F88868}|G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM.csproj|solutionrelative:g01_07_ef_cf_otm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +81,241 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 831,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 863,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Autore.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
-              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
-              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LibroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\LibroDTO.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\LibroDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\LibroDTO.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\LibroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:47:36.409Z",
+              "WhenOpened": "2025-02-12T16:02:27.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\LibroService.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Services\\LibroService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\LibroService.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Services\\LibroService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:50:31.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Repos\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\LibroRepository.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Repos\\LibroRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:48:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\AutoreDTO.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\AutoreDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\AutoreDTO.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\AutoreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:55:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250212144725_AggiuntaUnivocita.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Migrations\\20250212144725_AggiuntaUnivocita.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:47:25.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250212144631_AggiuntoCodice.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Migrations\\20250212144631_AggiuntoCodice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:46:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\IService.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:44:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Repos\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\IRepoScrittura.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Repos\\IRepoScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:35:11.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\IRepoLettura.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Repos\\IRepoLettura.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\IRepoLettura.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Repos\\IRepoLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:34:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\AutoreRepository.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Repos\\AutoreRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Repos\\AutoreRepository.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Repos\\AutoreRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:39.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoreService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\AutoreService.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Services\\AutoreService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Services\\AutoreService.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Services\\AutoreService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:28:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoreController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Controllers\\AutoreController.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Controllers\\AutoreController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Controllers\\AutoreController.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Controllers\\AutoreController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:26:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250212134553_Iniziale.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212134553_Iniziale.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Migrations\\20250212134553_Iniziale.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Migrations\\20250212134553_Iniziale.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Migrations\\20250212134553_Iniziale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:45:53.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\appsettings.json",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\appsettings.json",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T13:19:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Libro.cs",
               "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:47:31.617Z",
+              "WhenOpened": "2025-02-12T13:18:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Context\\LibreriaContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:18:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Program.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Program.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:18:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autore.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "RelativeDocumentMoniker": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_07_EF_CF_OTM\\G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "RelativeToolTip": "G01_07_EF_CF_OTM\\Models\\Autore.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:18:50.021Z",
               "EditorCaption": ""
             }
           ]

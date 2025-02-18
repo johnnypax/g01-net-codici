@@ -1,0 +1,6 @@
+@G01_09_MinimalAPI_Middleware_HostAddress = http://localhost:5152
+
+GET {{G01_09_MinimalAPI_Middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
