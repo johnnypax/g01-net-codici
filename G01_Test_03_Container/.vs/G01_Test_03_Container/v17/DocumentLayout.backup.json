@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\g01_test_03_container\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|solutionrelative:g01_test_03_container\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600E2BD2-45DD-4569-B2B9-87ED5F1D103B}|Container.Tests\\Container.Tests.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\container.tests\\servicestests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600E2BD2-45DD-4569-B2B9-87ED5F1D103B}|Container.Tests\\Container.Tests.csproj|solutionrelative:container.tests\\servicestests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600E2BD2-45DD-4569-B2B9-87ED5F1D103B}|Container.Tests\\Container.Tests.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\container.tests\\container.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{600E2BD2-45DD-4569-B2B9-87ED5F1D103B}|Container.Tests\\Container.Tests.csproj|solutionrelative:container.tests\\container.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\g01_test_03_container\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|solutionrelative:g01_test_03_container\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\G01_Test_03_Container.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\g01_test_03_container\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\G01_Test_03_Container.csproj|solutionrelative:g01_test_03_container\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|c:\\users\\academy\\source\\repos\\g01_test_03_container\\g01_test_03_container\\container.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE070A25-2365-4C05-9493-67F2C1F76227}|G01_Test_03_Container\\Container.csproj|solutionrelative:g01_test_03_container\\container.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 863,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\Container.Tests\\ServicesTests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "Container.Tests\\ServicesTests\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\Container.Tests\\ServicesTests\\StudentServiceTests.cs",
+              "RelativeToolTip": "Container.Tests\\ServicesTests\\StudentServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwC0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:35:24.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container.Tests",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\Container.Tests\\Container.Tests.csproj",
+              "RelativeDocumentMoniker": "Container.Tests\\Container.Tests.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\Container.Tests\\Container.Tests.csproj",
+              "RelativeToolTip": "Container.Tests\\Container.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T15:34:39.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "G01_Test_03_Container\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Services\\StudentService.cs",
+              "RelativeToolTip": "G01_Test_03_Container\\Services\\StudentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:32:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "G01_Test_03_Container\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Model\\Student.cs",
+              "RelativeToolTip": "G01_Test_03_Container\\Model\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:31:32.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Container.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Container.csproj",
+              "RelativeDocumentMoniker": "G01_Test_03_Container\\Container.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Container.csproj",
+              "RelativeToolTip": "G01_Test_03_Container\\Container.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T15:30:52.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Program.cs",
+              "RelativeDocumentMoniker": "G01_Test_03_Container\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_03_Container\\G01_Test_03_Container\\Program.cs",
+              "RelativeToolTip": "G01_Test_03_Container\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:30:43.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

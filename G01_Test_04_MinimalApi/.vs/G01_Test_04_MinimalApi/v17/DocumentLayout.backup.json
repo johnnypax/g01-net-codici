@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D159B1-D0F1-460B-98B9-633A1F4C3338}|MinimalApi.Tests\\MinimalApi.Tests.csproj|c:\\users\\academy\\source\\repos\\g01_test_04_minimalapi\\minimalapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D159B1-D0F1-460B-98B9-633A1F4C3338}|MinimalApi.Tests\\MinimalApi.Tests.csproj|solutionrelative:minimalapi.tests\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi.csproj|c:\\users\\academy\\source\\repos\\g01_test_04_minimalapi\\g01_test_04_minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi.csproj|solutionrelative:g01_test_04_minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\MinimalApi.csproj|c:\\users\\academy\\source\\repos\\g01_test_04_minimalapi\\g01_test_04_minimalapi\\minimalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\MinimalApi.csproj|solutionrelative:g01_test_04_minimalapi\\minimalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi.csproj|c:\\users\\academy\\source\\repos\\g01_test_04_minimalapi\\g01_test_04_minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD38E38-DC7A-44F7-A943-48E8F63E1B14}|G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi.csproj|solutionrelative:g01_test_04_minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 831,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\MinimalApi.Tests\\ProductApiTests.cs",
+              "RelativeDocumentMoniker": "MinimalApi.Tests\\ProductApiTests.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\MinimalApi.Tests\\ProductApiTests.cs",
+              "RelativeToolTip": "MinimalApi.Tests\\ProductApiTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:04:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "G01_Test_04_MinimalApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\Models\\Product.cs",
+              "RelativeToolTip": "G01_Test_04_MinimalApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:54:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinimalApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\MinimalApi.csproj",
+              "RelativeDocumentMoniker": "G01_Test_04_MinimalApi\\MinimalApi.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\MinimalApi.csproj",
+              "RelativeToolTip": "G01_Test_04_MinimalApi\\MinimalApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T15:54:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "G01_Test_04_MinimalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_Test_04_MinimalApi\\G01_Test_04_MinimalApi\\Program.cs",
+              "RelativeToolTip": "G01_Test_04_MinimalApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:53:53.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

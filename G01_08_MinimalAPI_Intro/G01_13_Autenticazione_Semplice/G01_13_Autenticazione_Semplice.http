@@ -1,0 +1,6 @@
+@G01_13_Autenticazione_Semplice_HostAddress = http://localhost:5037
+
+GET {{G01_13_Autenticazione_Semplice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

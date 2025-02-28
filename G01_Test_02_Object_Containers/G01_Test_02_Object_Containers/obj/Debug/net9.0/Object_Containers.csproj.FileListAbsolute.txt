@@ -1,0 +1,14 @@
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\bin\Debug\net9.0\Object_Containers.exe
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\bin\Debug\net9.0\Object_Containers.deps.json
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\bin\Debug\net9.0\Object_Containers.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\bin\Debug\net9.0\Object_Containers.dll
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\bin\Debug\net9.0\Object_Containers.pdb
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.dll
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\refint\Object_Containers.dll
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.pdb
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\Object_Containers.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\G01_Test_02_Object_Containers\G01_Test_02_Object_Containers\obj\Debug\net9.0\ref\Object_Containers.dll

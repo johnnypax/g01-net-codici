@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_11_Middleware_Headers.props" />
+</Project>

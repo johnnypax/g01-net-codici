@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_12_Minimal_Parametri.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_14_Minimal_EF_MTM.props" />
+</Project>

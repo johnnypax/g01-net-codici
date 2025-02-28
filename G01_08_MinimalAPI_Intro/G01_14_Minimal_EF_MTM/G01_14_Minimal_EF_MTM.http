@@ -1,0 +1,6 @@
+@G01_14_Minimal_EF_MTM_HostAddress = http://localhost:5272
+
+GET {{G01_14_Minimal_EF_MTM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

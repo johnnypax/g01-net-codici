@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_10_Middleware_Recap.props" />
+</Project>

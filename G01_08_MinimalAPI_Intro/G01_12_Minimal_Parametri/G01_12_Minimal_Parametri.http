@@ -1,0 +1,6 @@
+@G01_12_Minimal_Parametri_HostAddress = http://localhost:5241
+
+GET {{G01_12_Minimal_Parametri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

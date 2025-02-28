@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F797B573-944E-4D4A-9D59-2E60927D8A1D}|G01_09_MinimalAPI_Middleware\\G01_09_MinimalAPI_Middleware.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_09_minimalapi_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F797B573-944E-4D4A-9D59-2E60927D8A1D}|G01_09_MinimalAPI_Middleware\\G01_09_MinimalAPI_Middleware.csproj|solutionrelative:g01_09_minimalapi_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_08_minimalapi_intro\\g01_08_minimalapi_intro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|solutionrelative:g01_08_minimalapi_intro\\g01_08_minimalapi_intro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_08_minimalapi_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|solutionrelative:g01_08_minimalapi_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_08_minimalapi_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|solutionrelative:g01_08_minimalapi_intro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_08_minimalapi_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C2E301BA-0BF5-4C99-9006-4C3B964C9C6F}|G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj|solutionrelative:g01_08_minimalapi_intro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\models\\prodottocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\models\\prodottocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|c:\\users\\academy\\source\\repos\\g01_08_minimalapi_intro\\g01_14_minimal_ef_mtm\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CE72FD-6E21-4B4D-9FE4-FCC419FF8295}|G01_14_Minimal_EF_MTM\\G01_14_Minimal_EF_MTM.csproj|solutionrelative:g01_14_minimal_ef_mtm\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,72 +33,85 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 863,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 891,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_09_MinimalAPI_Middleware\\Program.cs",
-              "RelativeDocumentMoniker": "G01_09_MinimalAPI_Middleware\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_09_MinimalAPI_Middleware\\Program.cs",
-              "RelativeToolTip": "G01_09_MinimalAPI_Middleware\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:30:12.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "G01_08_MinimalAPI_Intro",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj",
-              "RelativeDocumentMoniker": "G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj",
-              "RelativeToolTip": "G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-12T16:29:17.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "G01_08_MinimalAPI_Intro\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\Properties\\launchSettings.json",
-              "RelativeToolTip": "G01_08_MinimalAPI_Intro\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T16:21:55.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\appsettings.json",
-              "RelativeDocumentMoniker": "G01_08_MinimalAPI_Intro\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\appsettings.json",
-              "RelativeToolTip": "G01_08_MinimalAPI_Intro\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T16:21:43.141Z",
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Models\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\CategoriaDTO.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Models\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:52:21.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\Program.cs",
-              "RelativeDocumentMoniker": "G01_08_MinimalAPI_Intro\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_08_MinimalAPI_Intro\\Program.cs",
-              "RelativeToolTip": "G01_08_MinimalAPI_Intro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Title": "ProdottoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\ProdottoDTO.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Models\\ProdottoDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\ProdottoDTO.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Models\\ProdottoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:20:40.979Z",
+              "WhenOpened": "2025-02-26T13:50:08.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\Prodotto.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Models\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:19:10.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdottoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\ProdottoCategoria.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Models\\ProdottoCategoria.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Models\\ProdottoCategoria.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Models\\ProdottoCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:38:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:16:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Program.cs",
+              "RelativeDocumentMoniker": "G01_14_Minimal_EF_MTM\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\G01_08_MinimalAPI_Intro\\G01_14_Minimal_EF_MTM\\Program.cs",
+              "RelativeToolTip": "G01_14_Minimal_EF_MTM\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:51:53.357Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\G01_13_Autenticazione_Semplice.props" />
+</Project>
