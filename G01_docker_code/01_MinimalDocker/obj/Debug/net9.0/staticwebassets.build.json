@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GtZx49VqUc5yOV1aJiOPPe+rWSG3eXaRQesnIM8OD1A=",
+  "Source": "01_MinimalDocker",
+  "BasePath": "_content/01_MinimalDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

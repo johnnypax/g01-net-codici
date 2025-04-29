@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiGitlab", "MinimalApiGitlab\MinimalApiGitlab.csproj", "{68EE421A-42FB-7F7C-F9C4-81256FB06A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EE421A-42FB-7F7C-F9C4-81256FB06A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EE421A-42FB-7F7C-F9C4-81256FB06A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EE421A-42FB-7F7C-F9C4-81256FB06A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EE421A-42FB-7F7C-F9C4-81256FB06A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42A2954-01A4-43B1-B3CD-B1006EB42363}
+	EndGlobalSection
+EndGlobal

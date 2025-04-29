@@ -1,0 +1,49 @@
+
+#Immagine comune
+image: mcr.microsoft.com/dotnet/sdk:9.0
+
+stages:
+  - build
+  - test
+  - deploy
+
+# dotnet restore
+before_script:
+  - echo "Risoluzione dei pacchetti .NET..."
+  - dotnet restore
+  - echo "Pacchetti ripristinati"
+
+# dotnet build
+build_api:
+  stage: build
+  script: 
+    - echo "Compilazione..."
+    - dotnet build --configuration Release --no-restore
+    - echo "Compilazione terminata"
+  artifacts:
+    paths:
+      - MinimalApiGitlab/bin/
+      - MinimalApiGitlabTests/bin/
+
+test_api:
+  stage: test
+  script:
+    - echo "Testing..."
+    - dotnet test MinimalApiGitlabTests/MinimalApiGitlabTests.csproj --logger "console;verbosity=detailed"
+    - echo "Test completato"
+
+docker_build_push:
+  stage: deploy
+  image: docker:latest
+  services:
+    - docker:dind
+  before_script:
+    - echo "Login a Docker Hub..."
+    - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+  script:
+    - echo "Costruzione dell'immagine Docker..."
+    - docker build -t $DOCKER_USERNAME/minimal-api:latest .
+    - echo "Push dell'immagine su Docker Hub..."
+    - docker push $DOCKER_USERNAME/minimal-api:latest
+  only:
+    - main

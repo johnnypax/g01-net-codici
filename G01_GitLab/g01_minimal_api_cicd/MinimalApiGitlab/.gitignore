@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app/
+*.ipa
+*.dmg
+*.pkg
+
+# User-specific files
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln*
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Logs, database, binaries
+logs/
+*.log
+*.sql
+*.sqlite
+*.bak
+
+# Test results
+TestResults/
+coverage/
+coverage.xml
+.vstest/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/

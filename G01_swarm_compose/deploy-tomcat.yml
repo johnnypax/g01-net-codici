@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  webserver_tomcat:
+    image: tomcat
+    deploy:
+      replicas: 2
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "5000:80"
+    networks:
+      - network_swarm_test
+
+  webserver_nginx:
+    image: nginx:1.27
+    deploy:
+      replicas: 4
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "5000:80"
+    networks:
+      - network_swarm_test
+
+networks:
+  network_swarm_test:
+    driver: overlay
+    

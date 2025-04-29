@@ -1,0 +1,7 @@
+C:\out\01_MinimalDocker.exe
+C:\out\appsettings.Development.json
+C:\out\appsettings.json
+C:\out\01_MinimalDocker.dll
+C:\out\01_MinimalDocker.deps.json
+C:\out\01_MinimalDocker.runtimeconfig.json
+C:\out\01_MinimalDocker.pdb

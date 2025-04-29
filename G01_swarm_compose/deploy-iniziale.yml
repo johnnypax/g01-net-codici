@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  webserver_nginx:
+    image: nginx
+    deploy:
+      replicas: 4
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "5003:80"
+    networks:
+      - g01_network_swarm
+
+networks:
+  g01_network_swarm:
+    driver: overlay
+    

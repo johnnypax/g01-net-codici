@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  webserver_nginx:
+    image: minimal_g01
+    deploy:
+      replicas: 4
+      update_config:
+        parallelism: 2
+        delay: 10s
+    ports:
+      - "5000:8080"
+    networks:
+      - nsw
+
+networks:
+  nsw:
+    driver: overlay
+    
